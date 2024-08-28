@@ -9,12 +9,13 @@ To run the code, make sure the following python libraries are installed
 1. cv2
 2. numpy
 3. matplotlib
+4. pandas
 
 ## Installation of Dependencies 
 
 ```bash
 sudo apt update
-sudo apt-get install python3-opencv python3-numpy python3-matplotlib
+sudo apt-get install python3-opencv python3-numpy python3-matplotlib python3-pandas
   
 ```
 

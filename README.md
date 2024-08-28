@@ -27,7 +27,7 @@ sudo apt-get install python3-opencv python3-numpy python3-matplotlib python3-pan
 4. Combine these frames together using the computed homographies.
 
 
-## Images 
+## Resulting Image
 
 Feature Matching Between Image 1 and Image 2
 

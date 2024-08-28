@@ -4,6 +4,21 @@ Pipeline to Stich overlapping images to create a panoramic. ENPM673 Project II P
 ## Description
 Image processing pipeline to stitch four images to create a panoramic image.
 
+## Dependencies
+To run the code, make sure the following python libraries are installed
+1. cv2
+2. numpy
+3. matplotlib
+
+## Installation of Dependencies 
+
+```bash
+sudo apt update
+sudo apt-get install python3-opencv python3-numpy python3-matplotlib
+  
+```
+
+
 ## Pipeline
 1. Extract features from each frame
 2. Match the features between each consecutive image.

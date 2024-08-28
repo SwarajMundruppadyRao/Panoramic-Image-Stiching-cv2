@@ -44,15 +44,15 @@ Feature Matching Between Image 3 and Image 4
 
 
 
-Stiching Image 1 and 2 
+Stiching Image 4 and 3 
 
 ![output4](https://github.com/user-attachments/assets/9be22790-314f-403c-8b47-2e2bbfa74e8b)
 
 
-Stiching Image 3 to the stiched image
+Stiching Image 2 to the stiched image (4 & 3) 
 ![output5](https://github.com/user-attachments/assets/8c4ec183-070a-464e-b288-b2d32ecee1a8)
 
-Stiching Image 4 to the stiched Image
+Stiching Image 1 to the stiched Image ( 2, 3 & 4 )
 
 ![output5](https://github.com/user-attachments/assets/78e67569-0486-4739-aa93-b1b26b0f9247)
 

@@ -52,9 +52,6 @@ Stiching Image 4 and 3
 Stiching Image 2 to the stiched image (4 & 3) 
 ![output5](https://github.com/user-attachments/assets/8c4ec183-070a-464e-b288-b2d32ecee1a8)
 
-Stiching Image 1 to the stiched Image ( 2, 3 & 4 )
 
-![output5](https://github.com/user-attachments/assets/78e67569-0486-4739-aa93-b1b26b0f9247)
-
-Resulting Panoromic Image 
+Panoromic Image / Stiching Image 1 to the stiched Image ( 2, 3 & 4 )
 ![output6](https://github.com/user-attachments/assets/788836db-ec31-4c49-bec3-a50bf13f9a13)
